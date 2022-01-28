@@ -1,0 +1,3 @@
+- x delete logo and main site
+- x change font, hello to the left, nice margins
+- x dark theme
