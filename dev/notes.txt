@@ -1,3 +1,8 @@
 - x delete logo and main site
 - x change font, hello to the left, nice margins
 - x dark theme
+- ,, cleanup
+	- x browser tab icon (favicon) and title
+	- .. clean up files and package.json
+
+- put in reset.css
